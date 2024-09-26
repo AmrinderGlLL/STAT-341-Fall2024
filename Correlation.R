@@ -1,4 +1,4 @@
-#Author: Amrinder Singh, Date: September 12, 2024, Purpose: Perform correlation analyses
+#Author: Amrinder Singh, Date: September 12, 2024, Purpose: Perform correlation analysis
 
 library(ggpubr)
 
